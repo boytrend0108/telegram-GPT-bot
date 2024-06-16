@@ -40,7 +40,9 @@ bot.on(message('voice'), async (ctx) => {
 
 bot.command('start', async (ctx) => {
   ctx.session = INITIAL_SESSION;
-  await ctx.reply('Hello bro!!!');
+  await ctx.reply(
+    'Hello! Ask me something. You can text me or send voice message'
+  );
 });
 
 bot.command('new', async (ctx) => {

@@ -8,7 +8,7 @@ App wrapped in a docker container and runs on vps server
 
 - NodeJs, Axios, Docker, OpenIA, Telegraf
 
-![App Screenshot](https://raw.githubusercontent.com/boytrend0108/delegat/master/public/delegat-home.png)
+![App Screenshot](https://raw.githubusercontent.com/boytrend0108/telegram-GPT-bot/main/images/gpt-bot.png)
 
 ### Getting Started
 
